@@ -18,7 +18,7 @@
 
 - npm install
 
-- npm start
+- node simulationServer.js
 
 ## Technologies Used
 
