@@ -1,6 +1,6 @@
 # AdminDashboard Server Side
 
-- This project provides real-time data communication with the client by creating the server side of the dashboard. It provides an infrastructure that manages the API endpoints and data flow required for robot simulation. 
+- This project provides real-time data communication with the client by creating the server side of the AdminDashboard project. It provides an infrastructure that manages the API endpoints and data flow required for robot simulation.
 
 ## Features 
 
